@@ -35,10 +35,14 @@ project:
     dimensions and a theory of valuations in Mathlib; none of these is
     attempted here.
   authors:
-    - "DICTO"
+    - name: "DICTO"
+      orcid: "0009-0001-2620-2036"
+      github: "DICTOR-Master"
   license: "Apache-2.0"
   responsible_maintainers:
-    - "DICTO"
+    - name: "DICTO"
+      orcid: "0009-0001-2620-2036"
+      github: "DICTOR-Master"
 
 classification:
   arxiv: ["math.MG", "math.HO"]
@@ -224,7 +228,8 @@ sources:
     author_endorsement: "n/a"
   - title: "The Dehn Canon: Hilbert's Third Problem, Machine-Checked. From the solids up, deciding every pair of the canon"
     authors:
-      - "DICTO"
+      - name: "DICTO"
+        orcid: "0009-0001-2620-2036"
     id: "doi:10.5281/zenodo.24383552"
     type: "paper"
     location: "Zenodo preprint, 20 November 2026, version 1: doi:10.5281/zenodo.24383553 (all versions: doi:10.5281/zenodo.24383552); not peer reviewed"
