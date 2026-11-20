@@ -1,0 +1,18 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "DehnCanon.hilbert_third_problem",
+    "DehnCanon.dehnSet_eq_edge_sum",
+    "DehnCanon.dehnSet_eq_of_scissorsCongruent",
+    "DehnCanon.dehnSum_eq_of_scissors",
+    "DehnCanon.similarTetra_not_scissorsCongruent_similarCube"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": true
+}
